@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\bin\Debug\netcoreapp3.1\Task_Array_String.exe
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\bin\Debug\netcoreapp3.1\Task_Array_String.deps.json
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\bin\Debug\netcoreapp3.1\Task_Array_String.runtimeconfig.json
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\bin\Debug\netcoreapp3.1\Task_Array_String.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\bin\Debug\netcoreapp3.1\Task_Array_String.dll
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\bin\Debug\netcoreapp3.1\Task_Array_String.pdb
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\obj\Debug\netcoreapp3.1\Task_Array_String.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\obj\Debug\netcoreapp3.1\Task_Array_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\obj\Debug\netcoreapp3.1\Task_Array_String.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\obj\Debug\netcoreapp3.1\Task_Array_String.AssemblyInfo.cs
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\obj\Debug\netcoreapp3.1\Task_Array_String.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\obj\Debug\netcoreapp3.1\Task_Array_String.dll
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\obj\Debug\netcoreapp3.1\Task_Array_String.pdb
+C:\Users\hp\Desktop\Task_Array_String\Task_Array_String\obj\Debug\netcoreapp3.1\Task_Array_String.genruntimeconfig.cache
